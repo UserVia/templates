@@ -14,7 +14,7 @@ export const items = [
         <ChartPieIcon />
       </SvgIcon>
     ),
-    label: 'Home'
+    label: 'No conformidad'
   },
   {
     href: '/orders',

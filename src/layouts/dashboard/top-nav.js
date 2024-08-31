@@ -1,6 +1,6 @@
 import { Link as RouterLink } from 'react-router-dom';
 import { Avatar, Box, Link, Stack } from '@mui/material';
-import { Logo } from 'src/components/logo';
+import logo from 'src/images/logo_blanco.png';
 
 const TOP_NAV_HEIGHT = 64;
 
@@ -33,11 +33,11 @@ export const TopNav = () => (
           to="/"
           sx={{
             display: 'inline-flex',
-            height: 24,
-            width: 24
+            height: 34,
+            width: 30
           }}
         >
-          <Logo />
+          <img src={logo} alt=""/>
         </Box>
       </Stack>
       <Stack
