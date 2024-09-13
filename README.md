@@ -4,28 +4,6 @@ Carpatin is a React JS Admin Dashboard Template that focuses on the management f
 
 Discover how Carpatin can speed up your business development by using our premium jump-start template!
 
-## Upgrade to PRO Version
-
-We also have a pro version of this product which bundles even more pages and components if you want to save more time and design efforts.
-
-| Free Version (this one)  | [Carpatin Dashboard PRO](https://mui.com/store/items/carpatin-dashboard/) |
-| ------------------------ | ------------------------------------------------------------ |
-| **7** Demo Pages         | **30** demo pages
-| -                        | ✔ Dark & light mode
-| -                        | ✔ Authentication with **Amplify**, **Auth0**, **Firebase** and **JWT**  
-| -                        | ✔ TypeScript version
-| -                        | ✔ Design files (Figma)
-| -                        | ✔ Advanced Filters
-| -                        | ✔ Built with Fake API
-| -                        | ✔ Data states (loading, empty, error, etc)
-
-## Demo
-
-- [Dashboard Page](https://carpatin-dashboard-free.devias.io)
-- [Orders Page](https://carpatin-dashboard-free.devias.io/orders)
-- [Settings Page](https://carpatin-dashboard-free.devias.io/settings)
-- [404 Page](https://carpatin-dashboard-free.devias.io/404)
-
 ## Quick start
 
 - Clone project `git clone https://github.com/devias-io/carpatin-dashboard-free`
