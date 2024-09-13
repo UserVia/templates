@@ -1,9 +1,6 @@
 # [Carpatin Dashboard Free](https://carpatin-dashboard-free.devias.io/)
 
 Carpatin is a React JS Admin Dashboard Template that focuses on the management flows of a back-office application. We leverage the [MUI](https://mui.com/?ref=devias.io) power of stylizing the components in a way that feels more professional.
-![license](https://img.shields.io/badge/license-MIT-blue.svg)
-
-![Carpatin React Dashboard](https://github.com/devias-io/carpatin-dashboard-free/raw/main/public/assets/thumbnail.png)
 
 Discover how Carpatin can speed up your business development by using our premium jump-start template!
 
